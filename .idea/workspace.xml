@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc83bccd-fa0f-4976-a734-e2942a4ef226" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1cXQIkqjPDbtlWsYa0V1bnHBNGU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/xltn-master/xltn-master" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.speech_recognition">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="voice-class-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="save_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="voice-class-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/save_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="speech_recognition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="voice-class-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/speech_recognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.speech_recognition" />
+        <item itemvalue="Python.save_data" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc83bccd-fa0f-4976-a734-e2942a4ef226" name="Default Changelist" comment="" />
+      <created>1590672380194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590672380194</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1379" height="202" key="GridCell.Tab.0.bottom" timestamp="1590733673353">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1379" height="202" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1590733673353" />
+    <state width="1379" height="202" key="GridCell.Tab.0.center" timestamp="1590733673352">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1379" height="202" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1590733673352" />
+    <state width="1379" height="202" key="GridCell.Tab.0.left" timestamp="1590733673352">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1379" height="202" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1590733673352" />
+    <state width="1379" height="202" key="GridCell.Tab.0.right" timestamp="1590733673353">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1379" height="202" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1590733673353" />
+    <state x="229" y="77" key="SettingsEditor" timestamp="1590680561724">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="229" y="77" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1590680561724" />
+    <state x="399" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1590733548879">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="399" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1590733548879" />
+  </component>
+</project>

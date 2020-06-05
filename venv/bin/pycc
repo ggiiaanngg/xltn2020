@@ -1,0 +1,3 @@
+#!/Users/giang/Downloads/voice-class-master/venv/bin/python
+from numba.pycc import main
+main()
